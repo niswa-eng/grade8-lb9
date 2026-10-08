@@ -1,0 +1,8 @@
+{
+  "name": "Remix Maths Teacher Board: Stage 9",
+  "description": "Whiteboard-style interactive teaching application for Cambridge Lower Secondary Stage 9 Mathematics, engineered for interactive displays and tablets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
